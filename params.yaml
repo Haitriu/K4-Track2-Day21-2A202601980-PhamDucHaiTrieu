@@ -3,5 +3,3 @@
 n_estimators: 300
 learning_rate: 0.15
 max_depth: 4
-# test trigger Fri Aug 21 20:12:58 SEAST 2026
-# retest push trigger Fri Aug 21 20:16:04 SEAST 2026
