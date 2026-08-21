@@ -1,0 +1,5 @@
+[core]
+    remote = labstore
+['remote "labstore"']
+    url = s3://day21-track2-2a202601980-phamduchaitrieu/dvc
+    region = us-east-1
