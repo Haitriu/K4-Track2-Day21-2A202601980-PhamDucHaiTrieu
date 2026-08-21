@@ -7,6 +7,7 @@ data/holdout.csv
 data/train_batch2.csv
 sa-key.json
 .env
+deploy/vm_setup_filled.sh
 .venv/
 __pycache__/
 *.pyc
