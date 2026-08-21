@@ -13,7 +13,7 @@ REPO_URL="https://github.com/Haitriu/K4-Track2-Day21-2A202601980-PhamDucHaiTrieu
 sudo dnf update -y
 sudo dnf install -y python3-pip git
 
-pip3 install --user fastapi "uvicorn[standard]" scikit-learn joblib boto3 pydantic
+pip3 install --user fastapi "uvicorn[standard]" scikit-learn==1.4.2 joblib==1.4.2 boto3 pydantic
 
 rm -rf ~/app
 git clone "$REPO_URL" ~/app
